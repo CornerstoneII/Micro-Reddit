@@ -1,24 +1,51 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Micro-Reddit
+> This project puts our knowledge of active record, models, and associations to the tests. We will build an application similar to Reddit (called Micro-Reddit) where a user can create a post and add comments to it.[Full Task Description](https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails).
 
-Things you may want to cover:
+## Built With
+- Ruby 2.7x
+- Ruby On Rails 6
 
-* Ruby version
+## Getting Started
+To get a local copy up and running follow these simple example steps.
 
-* System dependencies
+### Prerequisites
+You need Ruby & RoR inorder to have this run on your Machine
 
-* Configuration
+### Install
+ - Install Ruby and Ruby on Rails to your computer by following [this](https://gorails.com/setup/) guide
+ - Clone this git repository.
+    ```sh
+        git clone https://github.com/CornerstoneII/Micro-Reddit.git
+    ```
+ - Open the terminal in the project directory using 'cd Micro-Reddit'.
+ - Use `bundle install` to install Ruby dependencies.
+ - Use `yarn install` to install Javascript dependencies.
+ - From the terminal run 'rails db:migrate'
+ - You can interact with models from `rails console`.
 
-* Database creation
+## Author
+:bust_in_silhouette: **Iyadi Oluwaseun**
+- Github: [@CornerstoneII](https://github.com/CornerstoneII)
+- Linkedin: [CornerstoneII](https://www.linkedin.com/in/oluwaseun-iyadi-773584b4/)
 
-* Database initialization
+## Author
+:bust_in_silhouette: **Sinan Sevgi**
+- GitHub: [@sinansevgi](https://github.com/sinansevgi)
+- LinkedIn: [@sinansevgi](https://www.linkedin.com/in/sinan-s-52559437/)
+- Twitter: [@nativeofcybers1](https://twitter.com/nativeofcybers1)
 
-* How to run the test suite
+## :handshake: Contributing
+Contributions, issues and feature requests are welcome!
+Feel free to check the [issues page](issues/).
 
-* Services (job queues, cache servers, search engines, etc.)
+## Show your support
+Give a :star:️ if you like this project!
 
-* Deployment instructions
+## Acknowledgments
+- Microverse for showing the way for this project to happen
+- The Odin Project.
 
-* ...
+## License
+This project is [MIT](https://opensource.org/licenses/MIT) licensed.
