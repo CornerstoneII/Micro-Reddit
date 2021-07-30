@@ -34,7 +34,6 @@ You need Ruby & RoR inorder to have this run on your Machine
 :bust_in_silhouette: **Sinan Sevgi**
 - GitHub: [@sinansevgi](https://github.com/sinansevgi)
 - LinkedIn: [@sinansevgi](https://www.linkedin.com/in/sinan-s-52559437/)
-- Twitter: [@nativeofcybers1](https://twitter.com/nativeofcybers1)
 
 ## :handshake: Contributing
 Contributions, issues and feature requests are welcome!
